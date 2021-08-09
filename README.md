@@ -70,6 +70,7 @@
 <a href="https://www.instagram.com/__philip__thapa__/"><img src="https://img.shields.io/badge/-@__philip__thapa__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/philip.thapa.961"><img src="https://img.shields.io/badge/-@PhilipThapa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/philipthapa3"><img src="https://img.shields.io/badge/-Philipthapa-000?style=flat&logo=HackerRank&logoColor=white"/></a>
+<a href="https://leetcode.com/PhilipThapa/"><img src="https://img.shields.io/badge/-Philipthapa-000?style=flat&logo=LeetCode&logoColor=white"/></a>
 
 ---
 
