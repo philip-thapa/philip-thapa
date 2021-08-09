@@ -64,11 +64,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://philip-thapa.github.io/pzp/"><img src="https://img.shields.io/badge/-philipthapa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/philip-thapa-444595195/"><img src="https://img.shields.io/badge/-Philip%20Thapa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="philipthapa3@gmail.com"><img src="https://img.shields.io/badge/-philipthapa3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/__philip__thapa__/"><img src="https://img.shields.io/badge/-@__philip__thapa__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/philip.thapa.961"><img src="https://img.shields.io/badge/-@PhilipThapa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://philip-thapa.github.io/pzp/"><img src="https://img.shields.io/badge/-philipthapa.com-000?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/philip-thapa-444595195/"><img src="https://img.shields.io/badge/-Philip%20Thapa-000?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="philipthapa3@gmail.com"><img src="https://img.shields.io/badge/-philipthapa3@gmail.com-000?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/__philip__thapa__/"><img src="https://img.shields.io/badge/-@__philip__thapa__-000?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/philip.thapa.961"><img src="https://img.shields.io/badge/-@PhilipThapa-000?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/philipthapa3"><img src="https://img.shields.io/badge/-Philipthapa-000?style=flat&logo=HackerRank&logoColor=white"/></a>
 <a href="https://leetcode.com/PhilipThapa/"><img src="https://img.shields.io/badge/-Philipthapa-000?style=flat&logo=LeetCode&logoColor=white"/></a>
 
