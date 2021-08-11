@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am 2021 passed out UG from Global Institute of Engineering and Technology, Hyderabad & I'm currently looking for an opportunities .\
+🎓 &nbsp;I am 2021 graduated from Global Institute of Engineering and Technology, Hyderabad & I'm currently looking for an opportunities .\
 🌱 &nbsp;I'm on track for learning more about Web Development and Hybrid Mobile App Development.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
