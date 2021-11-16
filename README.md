@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am 2021 graduated from Global Institute of Engineering and Technology, Hyderabad & I'm currently looking for an opportunities .\
+🎓 &nbsp;I am 2021 graduated from Global Institute of Engineering and Technology, Hyderabad.\
 🌱 &nbsp;I'm on track for learning more about Web Development and Hybrid Mobile App Development.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I like to watch movies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at philipthapa3@gmail.com! I'll try to respond as soon as I can.
 
@@ -60,5 +60,3 @@
 <a href="https://leetcode.com/PhilipThapa/"><img src="https://img.shields.io/badge/-Philipthapa-000?style=flat&logo=LeetCode&logoColor=white"/></a>
 
 ---
-
-![Profile views](https://gpvc.arturio.dev/philip-thapa)
